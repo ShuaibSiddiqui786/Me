@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on InfusionAI<br>👯 I’m looking to collaborate on Machine Learning <br>      and DevSecOps/MLOps Projects<br>🤝 I’m looking for Good HackMates<br>🌱 I’m currently learning DevSecOps<br>💬 Ask me about Machine Learning, MERN Dev, CyberSecurity<br>⚡ Top Machine Learning Voice on LinkedIn
+🔭 I’m currently working on InfusionAI<br>👯 I’m looking to collaborate on Machine Learning <br>      and DevSecOps/MLOps Projects<br>🤝 I’m looking for Good HackMates<br>🌱 I’m currently learning DevSecOps<br>💬 Ask me about Machine Learning, MERN Dev, CyberSecurity<br>⚡ Top Machine Learning Voice on LinkedIn.
 
 
 ## 🌐 Socials:
