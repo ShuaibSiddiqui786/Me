@@ -36,6 +36,8 @@ PS: Top Languages are metric of language that my public code contains; it doesn'
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shuaibsiddiqui786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![An image of @shuaibsiddiqui786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shuaibsiddiqui786)](https://holopin.io/@shuaibsiddiqui786)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
