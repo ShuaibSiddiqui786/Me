@@ -1,6 +1,23 @@
 # 💫 About Me:
 🔭 I’m currently working on InfusionAI<br>👯 I’m looking to collaborate on Machine Learning <br>      and DevSecOps/MLOps Projects<br>🤝 I’m looking for Good HackMates<br>🌱 I’m currently learning DevSecOps<br>💬 Ask me about Machine Learning, MERN Dev, CyberSecurity<br>⚡ Top Machine Learning Voice on LinkedIn.
 
+# Connect with me :
+
+*Connect with me in a unique way through my NPX card, right from your terminal*
+
+👇 just hit
+
+```bash
+npx shuaibsiddiqui
+```
+OR
+```bash
+npx shuaib
+```
+
+> Explore who I am, straight from the console.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuaib_siddiqui_786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shuaibsiddiqui) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Shuaib-Siddiqui) 
